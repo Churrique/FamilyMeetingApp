@@ -1,0 +1,32 @@
+    <ContentPage.Content>
+        <StackLayout>
+            <Label FontSize="Large" FontAttributes="Bold" Text="Login?"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+
+	**************************************************************************
+
+                <StackLayout 
+                    Orientation="Horizontal">
+                    <Image 
+                        WidthRequest="100"
+                        Source="logo_facebook">
+                    </Image>
+                    <Image 
+                        WidthRequest="100"
+                        Source="logo_gmail">
+                    </Image>
+                    <Image 
+                        WidthRequest="100"
+                        Source="logo_instagram">
+                    </Image>
+                    <Image 
+                        WidthRequest="100"
+                        Source="logo_twitter">
+                    </Image>
+                </StackLayout>
+
+
+******************************************************************************
